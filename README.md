@@ -97,6 +97,13 @@ My implementation successfully validates the claims from the original paper:
 
 ---
 
+### 📺 Full Presentation Video
+[![Watch the Presentation](https://img.shields.io/badge/YouTube-Watch%20Presentation-red?style=for-the-badge&logo=youtube)](https://youtu.be/-r2QnFF31to)
+
+> 18-minute presentation covering methodology, implementation details, and results.
+
+---
+
 
 ## 🛠️ Technical Implementation
 
@@ -153,4 +160,5 @@ For detailed results and plots, see the [project report](VisionBasedControl_Term
 ## 🙏 Acknowledgments
 
 - **Original Authors:** Ahmad Ghasemi, Pengcheng Li, and Wen-Fang Xie for their innovative research
+
 - **Course Instructor:** Prof. Dr. Mustafa Ünel (Sabancı University)
